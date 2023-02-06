@@ -1,0 +1,17 @@
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\AKSAM YAZILIM\source\repos\DepoStokUygulamasi\BusinessLayer\obj\Debug\BusinessLayer.pdb

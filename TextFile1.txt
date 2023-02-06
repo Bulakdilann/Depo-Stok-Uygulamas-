@@ -1,0 +1,17 @@
+1-Katmanlarý oluþtur.
+   ui ,entity, dal , business
+
+2- databasedeki tablolara karþýlýk gelen Enityleri oluþtur.
+
+3- Dal katmanýna gel: 
+   -app config iþlemlerini yap.
+   -Context.cs :ilgili dbset' ler tanýmlanacak. tanýmlamazsan o tablo veritabanýnda oluþmaz.
+   - ÝNTERFACEYÝ OLUÞTUR .SONRA  GenericRepository classýný oluþtur. database iþlemlerini yapan metotlarý olusturuyoruz. ilgili kodlarý metotlara oluþturuyoruz.
+    - migration iþlemlerini yap.
+   - business layer katmanýnda yapýlacak olan manager sýnýflarýmýzý ve ilgili metotlrýmýzý oluþturacagýz.
+   - UI/ formlarý dizayn ett :kullanýcýnýn programla etkileþime geçiceði katmandýr.
+        --kullanýcýnýn istegine göre BL deki ilgili metotlar buradan çagrýlýr.
+  
+
+
+

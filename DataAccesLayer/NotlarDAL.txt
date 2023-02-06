@@ -1,0 +1,8 @@
+﻿--VERİTABANI İLE ilgili işlemler bu kATMANDA YAPILACAK.
+
+- Farkli bir katman olan entiy layer içindeki entity class larına ulaşabilmem için DAL katmanındaki referansa entiyt layer katmanını eklemem gerekyor bunun için Referans uzerınde sag tus ile tıkladıktan sonra add referans => projects-solution seçiyoruz. burada uygulamamızda diger katmanlar görünecek.
+Entity Layer Katmanını ekleyecegimiz için bu katmanı seçip ok e tıklıyoruz.entity layer, referans altında eklenmiş olacak. artık entity layer katmanımızın içindeki elemanlara(claslar,interfaceler) DAL içinden ulaşabiliriz.
+
+-Entity Freameworkü yükle
+-concent nesnesini oluşturuyoruz
+-app.config dosyasına ConnectionStrini ekliyoruz.

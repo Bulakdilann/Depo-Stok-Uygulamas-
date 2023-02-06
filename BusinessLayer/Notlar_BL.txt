@@ -1,0 +1,7 @@
+﻿uı katmanı form, diger katmanlar sınıf kitaplıgı(class library)
+
+- Business Layer katmanı işin geçerliliğinin ve kuralların  kontrolünün yapıldığı katmanıdır.
+Örnegin; sistemde olan kullanıcının bu işlemi yapmaya yetkisi var mı?
+  --CategoryName alanı en az 3 karakter en fazla 20 karakter kadar giriş yapılabiliyorsa, kullanıcının girdiği değerlerin bu aralıkta olup olmadıgının kontrolu gibi işlemler yapılır. eger kontrolleri geçemesse Veri DataAccessLayer katmanına gönderilmez, kullanıcıya bir mesaj gönderir.
+
+- 
